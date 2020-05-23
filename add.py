@@ -31,9 +31,9 @@ def dogrula():
  fl2=p.Path("ekle.exe")
  fl3=p.Path("kaydet.exe")
  if fl.exists and fl2.exists and fl3.exists():
-	ekle() #Scripti başlat
+  ekle() #Scripti başlat
  else:
-	os._exit(1)
+  os._exit(1)
 #		elif int(t)==0: #Scripti sil
 #			os.remove("config.data")
 #			os.remove("grup_uyeleri.csv")
