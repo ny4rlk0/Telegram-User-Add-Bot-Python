@@ -2,7 +2,8 @@ How to use this nice piece of software ?
 
 1-) Using Text now or 2nd Line get ur self a number.
 
-2-) Register the telegram. (Some number are banned from telegram just clear apps data and reset ur modem.)
+2-) Register the telegram. (Some number are banned from telegram 
+just clear apps data and reset ur modem for getting new numbers.)
 
 3-) Go to my.telegram.org sign in with ur registered number.
 
