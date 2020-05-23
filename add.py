@@ -72,7 +72,7 @@ def ekle():
 	if not client.is_user_authorized():
 		client.send_code_request(phone)
 		os.system('cls')
-		client.sign_in(phone, input('[+] Telegrama gelen kodu gir : '))
+		client.sign_in(phone, input('[+] Enter the code telegram send : '))
 	client(JoinChannelRequest(channel=group_username))
 	os.system('cls')
 	users = []
