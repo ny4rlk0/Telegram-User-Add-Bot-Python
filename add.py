@@ -27,9 +27,9 @@ def dogrula():
 #		x=soup.find(id='LC1')
 #		t = x.get_text()
 #		if int(t)==1:
- fl=p.Path("arayuz.exe")
- fl2=p.Path("ekle.exe")
- fl3=p.Path("kaydet.exe")
+ fl=p.Path("interface.pyw")
+ fl2=p.Path("add.py")
+ fl3=p.Path("save.py")
  if fl.exists and fl2.exists and fl3.exists():
   ekle() #Scripti başlat
  else:
