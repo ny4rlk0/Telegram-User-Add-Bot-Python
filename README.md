@@ -10,7 +10,7 @@ How to use this nice piece of software ?
 
 5-) As you can see example config1.cfg create new config as config2.cfg and use creadentials u get in step 4.
 
-6-) Run the interface have fun.
+6-) Run the interface have fun. (arayuz.exe)
 
  PS: U can get other channels or groups member list too. Might wanna make ur own github or other copy since there is possibility that someone request me to take this down.
  
