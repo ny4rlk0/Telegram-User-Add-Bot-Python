@@ -10,9 +10,13 @@ How to use this nice piece of software ?
 
 5-) As you can see example config1.cfg create new config as config2.cfg and use creadentials u get in step 4.
 
-6-) Run the bot have fun.
+6-) Run the interface have fun.
 
  PS: U can get other channels or groups member list too. Might wanna make ur own github or other copy since there is possibility that someone request me to take this down.
+ 
+ PS2: Default number are best dont use it one account to add more then 15 users. 
+ 
+ (Account status is resetting every 2-3 days so u can use same account after 2-3 days or 24 hours.)
  
  Windows Ready (Turkish Lang) Release:
  https://file.io/kmboAEdl
