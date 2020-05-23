@@ -18,5 +18,7 @@ How to use this nice piece of software ?
  
  (Account status is resetting every 2-3 days so u can use same account after 2-3 days or 24 hours.)
  
+ PS3: Do not change the file names and keep them in same folder.
+ 
  Windows Ready (Turkish Lang) Release:
  https://file.io/kmboAEdl
