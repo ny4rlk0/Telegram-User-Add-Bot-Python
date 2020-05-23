@@ -12,4 +12,7 @@ How to use this nice piece of software ?
 
 6-) Run the bot have fun.
 
- PS: U can get other channels or groups member list too.
+ PS: U can get other channels or groups member list too. Might wanna make ur own github or other copy since there is possibility that someone request me to take this down.
+ 
+ Windows Ready (Turkish Lang) Release:
+ https://file.io/kmboAEdl
