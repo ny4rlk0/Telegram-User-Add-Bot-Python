@@ -130,4 +130,5 @@ def change_config():#kickoff when you add 15 user to protecc ur acc's desu
 	cp.write(setup) #write to degerler.veri desu
 	setup.close() #close the file desu
 	max_user_to_add=0 #reset users to add to zero desu
+	max_user_to_add_x=0
 b()
