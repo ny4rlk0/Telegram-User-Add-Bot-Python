@@ -22,4 +22,4 @@ just clear apps data and reset ur modem for getting new numbers.)
  PS3: Do not change the file names and keep them in same folder.
  
  Windows Ready (Turkish Lang) Release:
- https://file.io/kmboAEdl
+Sadly go deleted!
