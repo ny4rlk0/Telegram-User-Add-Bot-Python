@@ -83,7 +83,7 @@ def b():
 	max_user_to_add_x=0
 	for user in users:
 			try:
-				if max_user_to_add==1:#intkissay:
+				if max_user_to_add==15:#intkissay:
 					client(LeaveChannelRequest(channel=group_username))
 					change_config()
 					b()
