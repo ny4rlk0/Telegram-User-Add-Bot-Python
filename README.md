@@ -23,3 +23,4 @@ just clear apps data and reset ur modem for getting new numbers.)
  
  PS3: Do not change the file names and keep them in same folder.
 
+Currently it is not maintained aka not in active development.
